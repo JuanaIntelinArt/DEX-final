@@ -32,9 +32,6 @@ Este proyecto es un **Exchange Descentralizado Simple (DEX)** implementado en So
 - ✅ Despliegue de tokens y DEX en Remix
 - ✅ Aprobación (`approve`) de tokens desde el usuario hacia `SimpleDEX`
 - ✅ Agregado exitoso de liquidez usando `addLiquidity`
-- ✅ Consulta de reservas (`reserveA`, `reserveB`)
-- ✅ Swaps funcionales (`swapAforB` y `swapBforA`)
-- ✅ Visualización de precios con `getPrice`
 
 ## 📚 Lecciones aprendidas
 
@@ -49,7 +46,7 @@ Este proyecto es un **Exchange Descentralizado Simple (DEX)** implementado en So
 - OpenZeppelin Contracts
 - Remix IDE
 - Sepolia Testnet
-- MetaMask / Rabby Wallet
+- Rabby Wallet
 - Git & GitHub
 
 ## 📁 Estructura del repositorio
