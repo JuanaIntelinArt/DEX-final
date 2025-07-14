@@ -5,9 +5,9 @@ Este proyecto es un **Exchange Descentralizado Simple (DEX)** implementado en So
 
 ## 🔗 Contratos desplegados en Sepolia
 
-- **TokenA:** 0x59333c195528a04C6aC48A26f78Bce05271E2232
-- **TokenB:** 0xDF5F5B9a8763943961f0F4E6A9C837812e2734db
-- **SimpleDEX:** 0xe8EEB4b817755a89fA4750ef49709Ede114EF8C1
+- **TokenA:** 0xc5c665312c0e3b371da5c64840a9a6c4eb729338
+- **TokenB:** 0x05da5a7e6a909272877b8f7d8f1556920e79f2cc
+- **SimpleDEX:** 0x2d41c4bd7fa1557701aec81bc1e39744f252796c
 
 ## 🛠️ Funcionalidades
 
